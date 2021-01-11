@@ -1,0 +1,64 @@
+body{
+    background-color: rgb(214, 199, 181);
+
+}
+header h1 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+    color: darkblue;
+
+}
+
+nav{
+    margin: 20px;
+    padding-left: 10px;
+}
+form{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color:blue;
+    margin: 10px;
+}
+form input{
+    margin: 10px;
+}
+.button {
+    margin-right: 20px;
+    font-style: normal,;
+    font-weight: bolder;
+    color: black;
+    padding: 7px;
+    border: 2px solid blue;
+    border-radius: 10px;
+    box-sizing: border-box;
+    box-sizing: content-box;
+    background-color: rgb(105, 165, 245);    
+
+}
+.button:hover{
+    background-color: rgb(49, 93, 175);
+    color: white;
+    text-decoration: none;
+}
+.c_selection{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: inherit;
+    font-size: larger;
+    margin: 10px;
+    padding: 20px;
+}
+.c_selection input{
+    margin-top: 10px;
+}
+
+table{
+    margin-top: 20px;
+}
+
+table thead tr th{
+    font-size: large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+table{
+      border: cornflowerblue;
+}
